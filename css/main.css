@@ -324,6 +324,7 @@ html, body{
 .projects {
     display: flex;
     justify-content: center;
+    flex-direction: row;
     flex-wrap: wrap;
     column-gap: 30px;
     row-gap: 30px;
